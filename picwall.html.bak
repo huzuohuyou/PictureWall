@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <link href="styles.css" rel="stylesheet">
+ <script type="text/javascript" src="drag.js"></script>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+<body class = "photo_wall" >           									    
+			<div class = "photo_frame" id = "photo01">
+             <img  src="30554.jpg" width="350" height="200" >
+                <p>面对两侧金色的树木，内心莫名的喜悦！</p>
+                <p>作者: 纤上陌</p>
+            </div>			
+            <div class = "photo_frame" id = "photo02">
+             <img src="30774.jpg" width="350" height="200">
+                <p>很遗憾两颗心画在了沙滩上</p>
+                <p>作者: 她留我走</p>
+            </div>
+            <div class = "photo_frame" id = "photo03">
+             <img src="30729.jpg" width="350" height="200">
+                <p>野花也要精彩</p>
+                <p>作者: Love&Peace</p>
+            </div>
+    
+    </body>
+</html>
